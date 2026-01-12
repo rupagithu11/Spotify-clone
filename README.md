@@ -22,10 +22,6 @@ Home
 
 ![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/home.png)
 
-About Us
-
-![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/about.png)
-
 Library
 
 ![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/library.png)
