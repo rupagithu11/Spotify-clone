@@ -1,3 +1,25 @@
+# 🎵 Spotify Clone – Music On The Go
+
+A responsive, Spotify-inspired web application built with **HTML & CSS**, replicating the look and feel of the popular music streaming platform.  
+Perfect for practicing frontend development, layout design, and UI components.
+
+---
+
+## 📖 Project Description
+
+The Spotify Clone is designed to mimic Spotify's interface, providing users with a sidebar navigation menu and sections like **Home, About, Library, Ratings & Reviews, and Song Requests**.  
+It focuses on **modern UI, responsive design, and interactive navigation**, making it ideal for beginners learning **HTML, CSS, and frontend design principles**.
+
+---
+
+## ✨ Features
+
+- 🎨 Sidebar navigation with icons  
+- 🏠 Sections: Home, About, Library  
+- ⭐ Rating & Review functionality (UI only)  
+- 🎶 Request Songs section  
+- 📱 Responsive and modern UI layout  
+- 🖌️ Clean and minimal design  
 
 # Spotify Clone
 
@@ -25,15 +47,7 @@ Home
 Library
 
 ![App Screenshot](https://github.com/BasimAhmedKhan/Spotify-Clone/blob/main/Readme%20Resources/library.png)
-
-## Support
-
-If you like my work, feel free to:
- - ⭐ this Repository. And we will live happily ever after xD.
- - Join me on Social: 
- - [<img align="left" alt="BasimAhmedKhan | Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" />][facebook] 
-[<img align="left" alt="BasimAhmedKhan | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram] 
-[<img align="left" alt="BasimAhmedKhan | Snapchat" width="22px" src="https://img.icons8.com/color/48/000000/snapchat-circled-logo--v1.png" />][snapchat] [<img align="left" alt="BasimAhmedKhan | LinkedIn" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo.png" />][linkedin]
+px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo.png" />][linkedin]
 
 
 ## Tech Stack
